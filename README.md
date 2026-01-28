@@ -18,7 +18,8 @@ main-branch
 ```
 
 ## Challenges Encountered
-Narrate all the challenges you've encountered during development
+Things I've encountered is I still check handouts or browsing some examples because I forgot some of the syntaxes.
 
 ## Key Takeaways
-List down your valuable learnings from doing this task.
+•Much better doing html than shs moment(mabagal nung shs)
+•Mas gets how the file works.
